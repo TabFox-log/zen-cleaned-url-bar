@@ -5,3 +5,5 @@ Cleans up zen's URL bar. Current customization:
 - The URL panel's transparency
 - The URL selected's color
 - The URL selected's font color
+
+Update to the original repo to fix it mainly.
